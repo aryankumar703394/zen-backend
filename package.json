@@ -1,0 +1,17 @@
+{
+  "name": "zen-backend",
+  "version": "1.0.0",
+  "description": "a backend at zen aur code channel-youtube",
+  "keywords": [
+    "\"javascript\"",
+    "\"backend\"",
+    "\"zen\""
+  ],
+  "license": "ISC",
+  "author": "\"Aryan Kumar\"",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
